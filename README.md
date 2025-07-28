@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking , Black Hats Mindset,Chess**
 
-- 📫 How to reach me **hariom18122006@gmail.com**
+
 
 
 
