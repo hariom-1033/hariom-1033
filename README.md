@@ -1,11 +1,11 @@
 #<h1 align="center">Hi 👋, I'm Hariom Singh Chauhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom-1033&label=Profile%20views&color=0e75b6&style=flat" alt="hariom-1033" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking , Black Hats Mindset,**
+- 🌱 I’m currently learning **Ethical Hacking , Black Hats Mindset,Chess**
 
 - 📫 How to reach me **hariom18122006@gmail.com**
 
-- ⚡ Fun fact **Hacked school web**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
